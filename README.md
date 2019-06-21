@@ -1,2 +1,2 @@
 # local-grocery
-Website for grocery
+Website for Nairobian Grocery
