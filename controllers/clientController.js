@@ -3,7 +3,7 @@ const { sanitizeBody } = require('express-validator/filter');
 
 var Client = require('../models/client');
 
-// Display list of all Clients.
+// Display list of all Grocery Clients.
 exports.client_list = function(req, res) {
     res.send('NOT IMPLEMENTED: Client list');
 };
