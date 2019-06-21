@@ -1,7 +1,7 @@
 extends layout
 
 block content
-  h1= name
+  h1= Name
 
   ul
     each val in productinstance_list
