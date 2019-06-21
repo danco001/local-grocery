@@ -8,7 +8,7 @@ var product_instance_controller = require('../controllers/productinstanceControl
 
 /// PRODUCT ROUTES ///
 
-// GET catalog home page.
+// GET catalog home pages.
 router.get('/', product_controller.index);
 
 // GET request for creating a Product. NOTE This must come before routes that display Product (uses id).
